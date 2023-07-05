@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import dinho from "../assets/img/dinho.jpg";
 import { Navbar } from "./Navbar";
 import { Galery } from "./Galery";
 import {getImages} from "./getImages";
