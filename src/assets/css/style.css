@@ -4,6 +4,10 @@
 }
 
 .card{
-    width: 70%;
+    width: 80%;
     background-color: aliceblue;
+}
+
+.card:hover{
+    border: solid 1px black;
 }
