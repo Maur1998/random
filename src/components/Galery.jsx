@@ -1,5 +1,5 @@
 
-export const Galery = ({dinhoGifs}) =>{
+export const Galery = ({dinhoGifs,searchValue}) =>{
 
     return(
         <main>
